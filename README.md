@@ -10,20 +10,20 @@ Check out Google Scholar [page](https://scholar.google.com/citations?user=29Kc9p
 
 ## <a id="languages"></a> Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,electron,angular,js,r,ts&perline=15)](#languages)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&perline=15)](#languages)
 
 ## <a id="techs"></a> Technologies
 
-[![My Techs](https://skillicons.dev/icons?i=aws,gcp,azure,terraform,kubernetes,vercel,netlify,elasticsearch&perline=15)](#techs)
+[![My Techs](https://skillicons.dev/icons?i=digitalocean,vercel,netlify&perline=15)](#techs)
 
 ## <a id="db"></a> Database
-[![My Techs](https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,kubernetes&perline=15)](#db)
+[![My Techs](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=15)](#db)
 
 ## <a id="stacks"></a> Frameworks/Libraries
-[![My Techs](https://skillicons.dev/icons?i=express,django,nodejs,react,gatsby,nextjs,svelte,angular,laravel,pytorch,tensorflow&perline=15)](#stacks)
+[![My Techs](https://skillicons.dev/icons?i=express,django,nodejs,react,nextjs,svelte,pytorch,tensorflow&perline=15)](#stacks)
 
 ## <a id="tools"></a> Tools
-[![My Techs](https://skillicons.dev/icons?i=vscode,git,docker,redis,latex&perline=15)](#tools)
+[![My Techs](https://skillicons.dev/icons?i=vscode,git,docker,latex&perline=15)](#tools)
 
 ## Competition Performances 🏆
 ### Hackathon Performances 
