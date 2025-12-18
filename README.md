@@ -21,7 +21,7 @@ Check out Google Scholar [page](https://scholar.google.com/citations?user=29Kc9p
 [![My Techs](https://skillicons.dev/icons?i=react,flask,fastapi,django,spring,nodejs,pytorch,tensorflow&perline=15)](#stacks)
 
 ## <a id="tools"></a> Tools
-[![My Techs](https://skillicons.dev/icons?i=git,github,selenium&perline=15)](#tools)
+[![My Techs](https://skillicons.dev/icons?i=git,github,selenium,playwright,cypress&perline=15)](#tools)
 
 ## Competition Performances 🏆
 ### Hackathon Performances 
