@@ -9,21 +9,19 @@ Check out Google Scholar [page](https://scholar.google.com/citations?user=29Kc9p
 - 🔎 My area of research interest is primarily in software engineering, with a focus on **developer wellbeing**. In our research we try to improve everyday developer workflows as efficiently as possible using cutting edge technologies such as language models.
 
 ## <a id="languages"></a> Languages
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&perline=15)](#languages)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash,html,css&perline=15)](#languages)
 
 ## <a id="techs"></a> Technologies
-
-[![My Techs](https://skillicons.dev/icons?i=digitalocean,vercel,netlify&perline=15)](#techs)
+[![My Techs](https://skillicons.dev/icons?i=docker,linux,digitalocean&perline=15)](#techs)
 
 ## <a id="db"></a> Database
-[![My Techs](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=15)](#db)
+[![My Techs](https://skillicons.dev/icons?i=postgres,sqlite,supabase,mongodb&perline=15)](#db)
 
 ## <a id="stacks"></a> Frameworks/Libraries
-[![My Techs](https://skillicons.dev/icons?i=express,django,nodejs,react,nextjs,svelte,pytorch,tensorflow&perline=15)](#stacks)
+[![My Techs](https://skillicons.dev/icons?i=react,flask,fastapi,django,spring,nodejs,pytorch,tensorflow&perline=15)](#stacks)
 
 ## <a id="tools"></a> Tools
-[![My Techs](https://skillicons.dev/icons?i=vscode,git,docker,latex&perline=15)](#tools)
+[![My Techs](https://skillicons.dev/icons?i=git,github,selenium&perline=15)](#tools)
 
 ## Competition Performances 🏆
 ### Hackathon Performances 
