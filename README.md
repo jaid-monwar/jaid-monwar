@@ -4,8 +4,8 @@ Research Assistant @BUET, Research Intern @UIUC, Software Engineer @Yobo AI.
 Find out more at my [site](https://jaid-monwar.github.io/).
 Check out Google Scholar [page](https://scholar.google.com/citations?user=29Kc9pkAAAAJ&hl=en).
 
-- 🔭 I am a research assistant at BUET, working on AI Agent-powered framework that translates natural language test cases into executable and robust Playwright test scripts for automated Web UI testing.
-- 🔭 I am a research intern at UIUC, working on a novel agentic framework for automated generation of behavior-driven unit tests for C programs using AI Agents, ensuring comprehensive coverage of functional scenarios.
+- 🔭 I am a research intern @[**<u>UIUC</u>**](https://siebelschool.illinois.edu/), working on a novel agentic framework for automated generation of behavior-driven unit tests for C programs using AI Agents, ensuring comprehensive coverage of functional scenarios.
+- 🔭 I am a research assistant @[**<u>BUET</u>**](https://cse.buet.ac.bd/), working on AI Agent-powered framework that translates natural language test cases into executable and robust Playwright test scripts for automated Web UI testing.
 - 🔎 My area of research interest is primarily in software engineering, with a focus on **developer wellbeing**. In our research we try to improve everyday developer workflows as efficiently as possible using cutting edge technologies such as language models.
 
 ## <a id="languages"></a> Languages
